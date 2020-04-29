@@ -1,0 +1,23 @@
+.ListaOpisy
+{
+    position: relative;
+    max-height: 300px;
+    overflow: auto;
+}
+#pobierzkatalog
+{
+    position: absolute;
+    width: 120px;
+    height: 40px;
+    background-color: white;
+    text-align: center;
+    right: 5px;
+    top: 2px;
+    display: block;
+}
+#pobierzkatalog_text
+{
+    display: inline-block;
+    vertical-align: middle;
+    user-select: none;
+}
